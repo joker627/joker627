@@ -24,7 +24,7 @@ Hi! I'm Miguel, passionate about technology, software, and electronics. Here you
 ⚔️ I mix code, hardware, and discipline like in martial arts
 
 "I'm not just a developer; I'm the one who transforms each project into something unique."
-- 📫 Reach out to me at: <a href="muguel.alealcendra@gmail.com">muguel.alealcendra@gmail.com</a>
+- 📫 Reach out to me at: <a href="muguel.alealcendra@gmail.com">jorgemanuelsantanablanco2@gamil.com</a>
 
 
 ## My Skills Include
@@ -64,7 +64,7 @@ Hi! I'm Miguel, passionate about technology, software, and electronics. Here you
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=miguelprograma200&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/miguelprograma200)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=miguelprograma200&theme=material-palenight)](https://github.com/miguelprograma200)
+[![](https://github-readme-stats.vercel.app/api?username=joker627&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joker627)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=joker627&theme=material-palenight)](https://github.com/joker627)
 </div>
 
