@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm  manuelx6</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm  Manuelx6</h1></summary>
   </ul>
 </div>
 
@@ -13,7 +13,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi! I'm Miguel, passionate about technology, software, and electronics. Here you won't just see code, you'll see style. I customize my environment, my tools, and my projects to reflect who I am: someone who doesn't follow the mold, reinvents it.
+Hi! I'm Manuelx6, passionate about technology, software, and electronics. Here you won't just see code, you'll see style. I customize my environment, my tools, and my projects to reflect who I am: someone who doesn't follow the mold, reinvents it.
 
 💻 Technologist in training – Software Analysis and Development (SENA)
 
@@ -24,7 +24,7 @@ Hi! I'm Miguel, passionate about technology, software, and electronics. Here you
 ⚔️ I mix code, hardware, and discipline like in martial arts
 
 "I'm not just a developer; I'm the one who transforms each project into something unique."
-- 📫 Reach out to me at: <a href="muguel.alealcendra@gmail.com">jorgemanuelsantanablanco2@gamil.com</a>
+- 📫 Reach out to me at: <a href="jorgemanuelsantanablanco2@gamil.com">jorgemanuelsantanablanco2@gamil.com</a>
 
 
 ## My Skills Include
