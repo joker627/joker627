@@ -24,7 +24,6 @@ Tecnólogo en formación – Análisis y Desarrollo de Software (SENA)
 ⚔️Mezclo código, hardware y disciplina como en las artes marciales.
 
 “No soy sólo un desarrollador; soy quien transforma cada proyecto en algo único”.
-"I'm not just a developer; I'm the one who transforms each project into something unique."
 - 📫 Reach out to me at: <a href="jorgemanuelsantanablanco2@gamil.com">jorgemanuelsantanablanco2@gamil.com</a>
 
 
