@@ -13,16 +13,17 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi! I'm Manuelx6, passionate about technology, software, and electronics. Here you won't just see code, you'll see style. I customize my environment, my tools, and my projects to reflect who I am: someone who doesn't follow the mold, reinvents it.
+Hola! Soy Manuelx6, un apasionado de la tecnología, el software y la electrónica. Aquí no solo verás código, sino también estilo. Personalizo mi entorno, mis herramientas y mis proyectos para reflejar quién soy: alguien que no sigue los moldes, sino que los reinventa.
 
-💻 Technologist in training – Software Analysis and Development (SENA)
+Tecnólogo en formación – Análisis y Desarrollo de Software (SENA)
 
-🔌 Electronics and automation enthusiast
+🔌 Entusiasta de la electrónica y la automatización
 
-🧠 Always learning something new (and doing it my way)
+🧠 Siempre aprendiendo algo nuevo (y haciéndolo a mi manera)
 
-⚔️ I mix code, hardware, and discipline like in martial arts
+⚔️Mezclo código, hardware y disciplina como en las artes marciales.
 
+“No soy sólo un desarrollador; soy quien transforma cada proyecto en algo único”.
 "I'm not just a developer; I'm the one who transforms each project into something unique."
 - 📫 Reach out to me at: <a href="jorgemanuelsantanablanco2@gamil.com">jorgemanuelsantanablanco2@gamil.com</a>
 
