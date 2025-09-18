@@ -1,68 +1,93 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Banner personalizado -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm  Manuelx6</h1></summary>
-  </ul>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,100:00FFA0&text=🚀+Manuel+Div&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Desarrollador+de+Software+Creativo&descAlign=50&descAlignY=65&descSize=20" />
+</p>
+
+<!-- Título animado -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFA0&center=true&vCenter=true&width=700&lines=👨‍💻+Hola!+Soy+Manuel+Div;💡+Construyo+proyectos+con+impacto;🌍+Transformo+ideas+en+realidad" alt="Typing Title"/>
 </div>
 
+---
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+## 🌟 Sobre mí
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+Soy **Manuel Div**, apasionado del **desarrollo de software**.
+Aquí no solo verás código, verás ideas hechas realidad con estilo.
 
-Hola! Soy Manuelx6, un apasionado de la tecnología, el software y la electrónica. Aquí no solo verás código, sino también estilo. Personalizo mi entorno, mis herramientas y mis proyectos para reflejar quién soy: alguien que no sigue los moldes, sino que los reinventa.
+* 🎓 Estudiante en *Análisis y Desarrollo de Software (SENA)*
+* 💡 Siempre aprendiendo y aplicando lo nuevo
+* 🌈 Me gusta crear proyectos que destaquen y tengan impacto
+* 📫 Contáctame: [jorgemanuelsantanablanco2@gmail.com](mailto:jorgemanuelsantanablanco2@gmail.com)
 
-Tecnólogo en formación – Análisis y Desarrollo de Software (SENA)
+---
 
-🔌 Entusiasta de la electrónica y la automatización
+## 🚀 Tecnologías y Herramientas
 
-🧠 Siempre aprendiendo algo nuevo (y haciéndolo a mi manera)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql,git,github,vscode,figma&perline=6" />
+</p>
 
-⚔️Mezclo código, hardware y disciplina como en las artes marciales.
+---
 
-“No soy sólo un desarrollador; soy quien transforma cada proyecto en algo único”.
-- 📫 Reach out to me at: <a href="jorgemanuelsantanablanco2@gamil.com">jorgemanuelsantanablanco2@gamil.com</a>
+## 📌 Proyectos Destacados
 
+<div align="center">
 
-## My Skills Include
+<table>
+<tr>
+<td align="center" width="300">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ai-robotics-flaticons-lineal-color-flat-icons.png" width="60"/>
+  <h3>Traductor de Lengua de Señas</h3>
+  <p>IA y visión por computadora para accesibilidad inclusiva.</p>
+  <a href="https://github.com/joker627/proyecto-sena"><b>🔗 Ver proyecto</b></a>
+</td>
+<td align="center" width="300">
+  <img src="https://img.icons8.com/fluency/64/000000/comic-book.png" width="60"/>
+  <h3>ComicVerse</h3>
+  <p>Plataforma estilo Webtoon para cómics digitales.</p>
+  <a href="https://github.com/joker627/comicverse"><b>🔗 Ver proyecto</b></a>
+</td>
+<td align="center" width="300">
+  <img src="https://img.icons8.com/fluency/64/000000/android.png" width="60"/>
+  <h3>App Creativa</h3>
+  <p>Prototipo móvil hecho con Python y JavaScript.</p>
+  <a href="https://github.com/joker627"><b>🔗 Ver repos</b></a>
+</td>
+</tr>
+</table>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
-
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
-</span>
-
-
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=joker627&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/joker627)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=joker627&theme=material-palenight)](https://github.com/joker627)
 </div>
 
+---
+
+## 📊 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joker627&show_icons=true&theme=radical&hide_border=true&border_radius=20&title_color=00FFA0&text_color=FFFFFF&icon_color=00FFA0" height="170"/>
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joker627&theme=radical&hide_border=true&border_radius=20&ring=00FFA0&fire=FF007F&currStreakLabel=FFFFFF" height="170"/>
+</p>
+
+---
+
+## 🌐 Conectemos
+
+<p align="center">
+  <a href="mailto:jorgemanuelsantanablanco2@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4136?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/joker627"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manuel-div"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A0A0A,100:00FFA0"/>
+</p>
