@@ -1,7 +1,7 @@
 <!-- Banner personalizado -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,100:00FFA0&text=🚀+Manuel+Div&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Desarrollador+de+Software+Creativo&descAlign=50&descAlignY=65&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,100:00FFA0&text=🚀+Manuel+Dev&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Desarrollador+de+Software+Creativo&descAlign=50&descAlignY=65&descSize=20" />
 </p>
 
 <!-- Título animado -->
