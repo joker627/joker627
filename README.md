@@ -46,9 +46,9 @@ Aquí no solo verás código, verás ideas hechas realidad con estilo.
 </td>
 <td align="center" width="300">
   <img src="https://img.icons8.com/fluency/64/000000/comic-book.png" width="60"/>
-  <h3>ComicVerse</h3>
+  <h3>YumeZone</h3>
   <p>Plataforma estilo Webtoon para cómics digitales.</p>
-  <a href="https://github.com/joker627/comicverse"><b>🔗 Ver proyecto</b></a>
+  <a href="https://github.com/joker627/yumezone"><b>🔗 Ver proyecto</b></a>
 </td>
 <td align="center" width="300">
   <img src="https://img.icons8.com/fluency/64/000000/android.png" width="60"/>
