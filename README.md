@@ -20,7 +20,7 @@ Aquí no solo verás código, verás ideas hechas realidad con estilo.
 * 🎓 Estudiante en *Análisis y Desarrollo de Software (SENA)*
 * 💡 Siempre aprendiendo y aplicando lo nuevo
 * 🌈 Me gusta crear proyectos que destaquen y tengan impacto
-* 📫 Contáctame: [jorgemanuelsantanablanco2@gmail.com](mailto:jorgemanuelsantanablanco2@gmail.com)
+* 📫 Contáctame: [jorgemanuelsantanablanco2@gmail.com](mailto:manuel7xs@gmail.com)
 
 ---
 
